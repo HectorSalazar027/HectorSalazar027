@@ -4,7 +4,7 @@
 
 ---
 
-<h1 align="center">About Me 🔥</h1>
+<h1>About Me 🔥</h1>
 
 - 🎓 Computer Engineering Student at UNAM  
 - 💡 Passionate about Software Development, Algorithms & AI  
