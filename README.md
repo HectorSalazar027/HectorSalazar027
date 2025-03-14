@@ -43,7 +43,7 @@
 ## 🌍 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/salazar-hector/">
-    <img src="https://raw.githubusercontent.com/HectorSalazar027/HectorSalazar027/master/Animation_Linkedin" width="200px" alt="LinkedIn Animation"/>
+    <img src="https://raw.githubusercontent.com/HectorSalazar027/HectorSalazar027/master/Animation_Linkedin.gif" width="200px" alt="LinkedIn Animation"/>
   </a>
 </p>  
 
