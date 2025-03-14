@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://www.canva.com/design/DAGhve47KuU/PMYkm8-CI0h_dnhlZjMNew/watch?utm_content=DAGhve47KuU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h21d39c0c1b" alt="Banner" width="100%"/>
+  <img src="https://github.com/HectorSalazar027/HectorSalazar027/blob/main/Banner_HectorSalazar.gif" alt="Banner" width="100%"/>
 </div>
-
 ---
 
 <h1 align="center">Hello, I'm Héctor Salazar! 👋</h1>
