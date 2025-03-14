@@ -1,19 +1,18 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/HectorSalazar027/HectorSalazar027/main/Banner_HectorSalazar" alt="Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/HectorSalazar027/HectorSalazar027/master/Banner_HectorSalazar.gif" alt="Banner" width="100%"/>
 </div>
+
 ---
 
 <h1 align="center">Hello, I'm Héctor Salazar! 👋</h1>
 
 <p align="center">
-## 👋 About Me  
-- 🛰 **Computer Engineering Student at UNAM**  
+## 🔥 About Me  
+- 🎓 **Computer Engineering Student at UNAM**  
 - 💡 **Passionate about Software Development, Algorithms & AI**  
 - 🚀 **Currently learning Python, JavaScript, C++, SQL**  
 - 🌱 **Exploring Machine Learning, Web Development & Databases**  
 - 📌 **Open to collaborations & new challenges**  
-
-</p>
 
 ---
 
