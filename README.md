@@ -6,14 +6,13 @@
 
 <h1 align="center">Hello, I'm Héctor Salazar! 👋</h1>
 
-<p align="center">
-## 🔥 About Me  
-- 🎓 **Computer Engineering Student at UNAM**  
-- 💡 **Passionate about Software Development, Algorithms & AI**  
-- 🚀 **Currently learning Python, JavaScript, C++, SQL**  
-- 🌱 **Exploring Machine Learning, Web Development & Databases**  
-- 📌 **Open to collaborations & new challenges**  
-
+🔥 About Me
+🎓 Computer Engineering Student at UNAM
+💡 Passionate about Software Development, Algorithms & AI
+🚀 Currently learning: Python, JavaScript, C++, SQL
+🌱 Exploring: Machine Learning, Web Development & Databases
+🛠️ Building projects to sharpen my problem-solving skills
+📌 Open to collaborations, new challenges, and continuous learning
 ---
 
 ## 🛠️ Tech Stack & Tools  
@@ -44,9 +43,10 @@
 ## 🌍 Let's Connect  
 <p align="center">
   <a href="https://www.linkedin.com/in/salazar-hector/">
-    <img src="https://lottie.host/5ab6ef95-a73c-46db-b21f-99802999dba5/BL9HWzq5D0.lottie" width="200px" alt="LinkedIn Animation"/>
+    <img src="https://raw.githubusercontent.com/HectorSalazar027/HectorSalazar027/master/Animation_Linkedin" width="200px" alt="LinkedIn Animation"/>
   </a>
 </p>  
+
 
 📫 **Email:** coder.salazar.rubi.hector@gmail.com
 
