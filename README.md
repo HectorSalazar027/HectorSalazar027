@@ -4,15 +4,15 @@
 
 ---
 
-<h1 align="center">Hello, I'm Héctor Salazar! 👋</h1>
+<h1 align="center">About Me 🔥</h1>
 
-🔥 About Me
-🎓 Computer Engineering Student at UNAM
-💡 Passionate about Software Development, Algorithms & AI
-🚀 Currently learning: Python, JavaScript, C++, SQL
-🌱 Exploring: Machine Learning, Web Development & Databases
-🛠️ Building projects to sharpen my problem-solving skills
-📌 Open to collaborations, new challenges, and continuous learning
+- 🎓 Computer Engineering Student at UNAM  
+- 💡 Passionate about Software Development, Algorithms & AI  
+- 🚀 Currently learning: Python, JavaScript, C++, SQL  
+- 🌱 Exploring: Machine Learning, Web Development & Databases  
+- 🛠️ Building projects to sharpen my problem-solving skills  
+- 📌 Open to collaborations, new challenges, and continuous learning  
+
 ---
 
 ## 🛠️ Tech Stack & Tools  
